@@ -73,4 +73,12 @@
             android:title="@string/misc_title" 
             android:fragment="com.lean.settings.fragments.MiscSettings"
             android:icon="@drawable/ic_settings_miscs"/>
- </PreferenceScreen>
+
+       <!-- Team -->
+        <PreferenceScreen
+          android:fragment="com.lean.settings.fragments.AboutTeam"
+          android:icon="@drawable/ic_about_team"
+          android:key="about_team"
+          android:summary="@string/about_team_summary"
+          android:title="@string/about_team_title" />
+  </PreferenceScreen>

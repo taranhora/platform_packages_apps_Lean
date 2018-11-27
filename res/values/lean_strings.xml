@@ -223,5 +223,9 @@
     <string name="network_traffic_state_summary">Show net activity in statusbar</string>
     <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
     
-</resources>
+     <!-- Team Info -->
+     <string name="about_team_title">About team</string>
+     <string name="about_team_summary">Peoples Behind This Shit Rom :)</string>
+     <string name="lean_team_title">Meet Our Lean Team</string>
 
+</resources>
