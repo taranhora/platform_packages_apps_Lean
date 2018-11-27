@@ -228,4 +228,8 @@
      <string name="about_team_summary">Peoples Behind This Shit Rom :)</string>
      <string name="lean_team_title">Meet Our Lean Team</string>
 
+    <!-- AOSP Gestures -->
+    <string name="aosp_gesture_preference">AOSP Gestures</string>
+    <string name="aosp_gesture_summary">Gestures Settings of AOSP</string>
+    
 </resources>
