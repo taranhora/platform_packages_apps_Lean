@@ -24,7 +24,6 @@
              android:icon="@drawable/ic_edge_gestures"/>
  
 <Preference
- <!-- AOSP Gestures -->
         android:key="gesture_settings"
         android:title="@string/aosp_gesture_preference"
 	android:summary="@string/aosp_gesture_summary"
